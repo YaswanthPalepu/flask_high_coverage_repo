@@ -1,0 +1,47 @@
+{
+  "source_files": {
+    "src/string_utils.py": "9039a2948d5f40cc",
+    "src/calculator.py": "c7c98e3c9c798d06",
+    "src/data_processor.py": "ebd701d3aaad8170",
+    "src/models/user.py": "f62b14f4f608ad05"
+  },
+  "test_mapping": {
+    "src/calculator.py": [
+      "test_unit_20251112_084358_01.py",
+      "test_unit_20251112_084358_02.py",
+      "test_unit_20251112_084358_03.py",
+      "test_integ_20251112_084358_01.py",
+      "test_integ_20251112_084358_02.py",
+      "test_integ_20251112_084358_03.py",
+      "test_integ_20251112_084358_04.py"
+    ],
+    "src/models/user.py": [
+      "test_unit_20251112_084358_01.py",
+      "test_unit_20251112_084358_02.py",
+      "test_unit_20251112_084358_03.py",
+      "test_integ_20251112_084358_01.py",
+      "test_integ_20251112_084358_02.py",
+      "test_integ_20251112_084358_03.py",
+      "test_integ_20251112_084358_04.py"
+    ],
+    "src/data_processor.py": [
+      "test_unit_20251112_084358_01.py",
+      "test_unit_20251112_084358_02.py",
+      "test_unit_20251112_084358_03.py",
+      "test_integ_20251112_084358_01.py",
+      "test_integ_20251112_084358_02.py",
+      "test_integ_20251112_084358_03.py",
+      "test_integ_20251112_084358_04.py"
+    ],
+    "src/string_utils.py": [
+      "test_unit_20251112_084358_01.py",
+      "test_unit_20251112_084358_02.py",
+      "test_unit_20251112_084358_03.py",
+      "test_integ_20251112_084358_01.py",
+      "test_integ_20251112_084358_02.py",
+      "test_integ_20251112_084358_03.py",
+      "test_integ_20251112_084358_04.py"
+    ]
+  },
+  "generated_at": 1762937481.1896794
+}
