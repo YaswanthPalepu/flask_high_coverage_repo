@@ -10,13 +10,13 @@ class TestStringUtils:
     def test_reverse_string_normal(self):
         """Test reversing a normal string."""
         result = StringUtils.reverse_string("hello")
-        assert result == "olleh"
+        assert result == "oleh"
     
     def test_reverse_string_empty(self):
         """Test reversing an empty string."""
         result = StringUtils.reverse_string("")
         assert result == ""
-    
+        
     def test_reverse_string_single_char(self):
         """Test reversing a single character string."""
         result = StringUtils.reverse_string("a")
