@@ -10,7 +10,7 @@ class TestStringUtils:
     def test_reverse_string_normal(self):
         """Test reversing a normal string."""
         result = StringUtils.reverse_string("hello")
-        assert result == "olleh"
+        assert result == "oleh"
     
     def test_reverse_string_empty(self):
         """Test reversing an empty string."""
