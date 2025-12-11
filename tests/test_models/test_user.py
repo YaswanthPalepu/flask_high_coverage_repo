@@ -10,7 +10,7 @@ class TestUser:
         user = User(id=1, username="john_doe", email="john@example.com", age=25)
         
         assert user.id == 1
-        assert user.username == "john_doe"
+        assert user.username == "joh_doe"
         assert user.email == "john@example.com"
         assert user.age == 25
         assert user.is_active is True
